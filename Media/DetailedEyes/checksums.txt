@@ -1,0 +1,9 @@
+File: DetailedEyes-encrypted-20261030.7z
+Bytes: 2430092827
+SHA-256: 831d57d0334f244e11bc6d0aa2172db8efb53d11c9dd333f82e550d3666ffe1c
+
+Documentation revision: 2026-10-30
+Format: standalone 7z archive; AES-256 encryption; encrypted file names
+Contents: 324 files, including documentation and MANIFEST.sha256
+Extraction: open with 7-Zip or a compatible extractor and enter the password supplied separately by email.
+No split parts or other archives are required.
